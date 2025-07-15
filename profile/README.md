@@ -29,8 +29,6 @@ Each script is:
 
 | Script | Description | Usage |
 |--------|-------------|-------|
-| `Ultimate Fix – Ptero, PMA, Apache & Nginx` | Complete reinstallation & configuration toolkit | 🔥 Stay tuned |
-| `Nginx Fix for Pterodactyl` | Fixes Pterodactyl file download issues with Nginx | 🔥 Stay tuned |
 | `Pterodactyl Auto Setup` *(coming soon)* | Fully automated panel setup with admin account creation | 🛠️ In progress |
 | More scripts coming soon… | Regular updates and improvements! | 🔥 Stay tuned |
 
